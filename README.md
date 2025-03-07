@@ -11,7 +11,7 @@ Whispers of Machine is a deep learning-based poetry generation project that uses
 ### 🛠️ Tech Stack
 Python 🐍
 TensorFlow/Keras 🔬
-NLTK  📚 (for text preprocessing)
+BeautifulSoup 🧑‍💻 
 NumPy & Pandas 📊
 Matplotlib & Seaborn 📈 (for visualization)
 
@@ -24,7 +24,7 @@ The dataset consists of:
 
 >From https://www.kaggle.com/datasets/tgdivy/poetry-foundation-poems 
 
-###Preprocessing includes:
+### Preprocessing includes:
 
 Tokenization & vectorization of text
 Sequence padding for consistent input length
